@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+out/
+# dump database lokal (berisi data asli); pakai database/barterskill.sql
+databasebarterskill.sql
